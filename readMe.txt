@@ -16,5 +16,3 @@ it will download all the dependences it need.Run the project from your IDE
 then hit:http://localhost:3000/
 app will be running....
 
-
-App is live here : https://kh-nishad.herokuapp.com/
