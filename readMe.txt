@@ -8,7 +8,7 @@ if you want to run this in your computer do this:
 
 #download the app from here.
 
-#open in your editor.
+#open in your editor
 
 #run command >> npm install
 
