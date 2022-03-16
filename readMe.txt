@@ -1,4 +1,4 @@
-This is a simple weather app created with nodejs and openweather api.
+This is a simple weather app created with nodejs and openweather api and express.js.
 
 with this app you can search your city and can get current weather update of your city.
 
