@@ -1,6 +1,6 @@
 This is a simple weather app created with nodejs and openweather api and express.js.
 
-with this app you can search your city and can get current weather update of your city.
+with this app you can search your city and can get current weather update of your city~
 
 if you want to run this in your computer do this:
 
